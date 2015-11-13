@@ -23,6 +23,8 @@ class main extends PluginBase {
 						foreach ($players as $player){
 							$player->sendMessage($message);
 						}
+					}else{
+						$sender->sendMessage("no such world");
 					}
 					
 				}else{
