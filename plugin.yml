@@ -1,0 +1,9 @@
+name: PerWorldBroadcast
+description: Adds a per world broadcast command!
+author: BalAnce
+version: 0.1
+main: pwb\main
+api: 1.12.0
+commands:
+ pwb:
+  description: per world broadcast
