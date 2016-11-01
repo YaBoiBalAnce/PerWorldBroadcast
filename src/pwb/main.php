@@ -4,7 +4,6 @@ namespace pwb;
 use pocketmine\plugin\PluginBase;
 use pocketmine\command\Command;
 use pocketmine\command\CommandSender;
-use pocketmine\level\generator\normal\biome\PlainBiome;
 use pocketmine\Player;
 class main extends PluginBase {
 	public function onEnable(){
